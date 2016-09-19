@@ -1,0 +1,2 @@
+# ShareKaro-NIITUniversity
+This is a software engineering project part of my semester V for B.Tech at NIIT University. This software and app will be a portal where the hostelers of NIIT University can share the set of movies, TV series, books, novels, notes that they possess. Sharing is something that is the diesel for hostel life, and by giving the students a portal for it, we intend to smoothen their life.
